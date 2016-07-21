@@ -13,3 +13,7 @@ td {
 tr.spaceUnder > td {
       padding-bottom: 1em;
 }
+
+.no-border {
+      border: 0px solid transparent;
+}
