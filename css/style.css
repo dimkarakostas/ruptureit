@@ -10,7 +10,6 @@ td {
     text-align: center;
 }
 
-tr.spaceUnder > td
-{
+tr.spaceUnder > td {
       padding-bottom: 1em;
 }
