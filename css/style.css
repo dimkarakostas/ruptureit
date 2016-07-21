@@ -1,0 +1,17 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.jumbotron {
+    padding: 10px;
+}
+
+td {
+    text-align: center;
+}
+
+tr.spaceUnder > td
+{
+      padding-bottom: 1em;
+}
