@@ -1,6 +1,5 @@
 body {
     padding-top: 70px;
-    padding-bottom: 70px;
 }
 
 .jumbotron {
@@ -11,7 +10,10 @@ td {
     text-align: center;
 }
 
-tr.spaceUnder > td
-{
+tr.spaceUnder > td {
       padding-bottom: 1em;
+}
+
+.no-border {
+      border: 0px solid transparent;
 }
